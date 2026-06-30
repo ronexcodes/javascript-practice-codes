@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    background:black;
+    color: white;
+    font-family: arial;
+    text-align: center;
+    justify-content: center;
+}
+
+.clock{
+    text-align: center;
+
+}
+h1{
+    font-size: 60px;
+}
+
+p{
+    font-size: 25px;
+}
